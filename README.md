@@ -1,2 +1,2 @@
-# Xaero
-Xaero地图汉化，基于1.21.7进行汉化
+提供我的世界模组的汉化
+Will provide the sinicization of minecraft mods.
